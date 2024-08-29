@@ -17,7 +17,6 @@ from uuid import uuid4
 
 import requests
 from googletrans import Translator
-from html_telegraph_poster import TelegraphPoster
 from imdb import Cinemagoer
 from PIL import Image, ImageColor, ImageDraw, ImageFilter, ImageFont, ImageOps
 from telethon import functions, types
